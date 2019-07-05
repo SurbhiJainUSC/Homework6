@@ -1,0 +1,30 @@
+mean_radius
+mean_texture
+mean_perimeter
+mean_area
+mean_smoothness
+mean_compactness
+mean_concavity 
+mean_concave points
+mean_symmetry 
+mean_fractal dimension 
+se_radius
+se_texture
+se_perimeter
+se_area
+se_smoothness
+se_compactness
+se_concavity 
+se_concave points
+se_symmetry 
+se_fractal dimension
+worst_radius
+worst_texture
+worst_perimeter
+worst_area
+worst_smoothness
+worst_compactness
+worst_concavity 
+worst_concave points
+worst_symmetry 
+worst_fractal dimension  
