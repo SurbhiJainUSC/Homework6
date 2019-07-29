@@ -29,3 +29,6 @@ times and take the most optimal solution. In K-means algorithm, every different 
 different clusters because the algorithm tries to optimize the cost function. Therefore, it is better to take a stochastic 
 approach and run the algorithm many times with different initial cluster seeds. This will lead to mulitple clustering results,
 so choose those clusters that give the lowest error.
+
+## Spectral Clustering
+Spectral clustering algorithm is also used to fit on the dataset. It is a clustering algorithm based on kernels. In spectral clustering, the data points are treated as nodes of a graph. The spectral clustering algorithm is treated as a graph partitioning problem. The data points/nodes are mapped to a low-dimensional space that can be easily segregated to form clusters. Points that are connected or are adjacent to each other are assigned to the same cluster. Also, no assumption is made about the shape of the clusters in this clustering algorithm. This clustering algorithm is reasonably fast for sparse datasets.
