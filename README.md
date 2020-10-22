@@ -1,6 +1,6 @@
 # Supervised-Semi-supervised-and-Unsupervised-Learning
 The task is compare different machine learning approaches: Supervised Learning, Semi-supervised Learning and Unsupervised
-Learning ny monte-carlo simulation.
+Learning by monte-carlo simulation.
 
 ## Dataset
 The Breast Cancer Wisconsin (Diagnostic) dataset contains 10 real-valued features that describe the characteristics of the 
